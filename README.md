@@ -12,18 +12,28 @@
 ### 第1不定詞長形
     辞書形＋[-ksi]＋所有接尾辞
 
+#### 活用例
 - syödä
   - syödä**ksi**
     - syödä**kse-**
-      - syödä**kseni**
-      - syödä**ksesi**
-      - syödä**kseen**
-      - syödä**ksemme**
-      - syödä**ksenne**
-      - syödä**ksensä**
+      - syödä**kseni, -si, -en, -mme, -nne, -en**
 
-Emme elä **syödäksemme** vaan syömme **elääksemme**.
-:私たちは**食べるために**生きるのではなく**生きるために**食べる。
+- tietää
+  - tietää**ksi**
+    - tietää**kse-**
+      - tietää**kseni, -si, -en, -mme, -nne, -en**
+
+
+#### 意味
+    [所有接尾辞]が 〜するために
+
+Emme elä **syödäksemme** vaan syömme **elääksemme**.  
+私たちは**食べるために**生きるのではなく**生きるために**食べる。
+
+    [所有接尾辞]が 〜する限りでは
+
+**Tietääkseni** hän asuu nyttemmin ulkomailla.  
+**私の知る限り**、彼/彼女は現在海外に住んでいます。
 
 ## 第2不定詞（E不定詞）
 
